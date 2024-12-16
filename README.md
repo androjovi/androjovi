@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jovianro</h1>
+<h1 align="center">Hi there, I'm Joviandro</h1>
 <h3 align="center">A passionate backend developer from earth</h3>
 
 - 🌱 I’m currently learning **Golang, Typescript, React Native, Design Architecture, Code Principles**
